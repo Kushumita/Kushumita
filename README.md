@@ -16,6 +16,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Kushumita&limit=5&theme=rose&combine_all_yearly_contributions=true)
 
 
+### 🔝 Top Contributed Repositories
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushumita&layout=compact&theme=rose)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kushumita&icon=0&color=5)](https://visitcount.itsvg.in)
