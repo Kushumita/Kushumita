@@ -12,14 +12,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Kushumita&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushumita&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kushumita&limit=5&theme=rose&combine_all_yearly_contributions=true)
+## 🌟 Top Projects
+
+[![Project1](https://github-readme-stats.vercel.app/api/pin/?username=Kushumita&repo=Smart-Assistive-Belt&theme=rose)](https://github.com/Kushumita/Smart-Assistive-Belt
 
 
-### 🔝 Top Contributed Repositories
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushumita&layout=compact&theme=rose)
-
----
-[![](https://visitcount.itsvg.in/api?id=Kushumita&icon=0&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
