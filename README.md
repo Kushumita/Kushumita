@@ -12,8 +12,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Kushumita&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushumita&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🌟 Top Projects
+## 🌟 Top Project
+[![Smart Assistive Belt](https://github-readme-stats.vercel.app/api/pin/?username=Vweave1012&repo=Smart-Assistive-Belt&theme=rose)](https://github.com/Vweave1012/Smart-Assistive-Belt)
 
-[![Project1](https://github-readme-stats.vercel.app/api/pin/?username=Kushumita&repo=Smart-Assistive-Belt&theme=rose)](https://github.com/Kushumita/Smart-Assistive-Belt
 
 
