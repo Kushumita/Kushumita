@@ -1,6 +1,8 @@
-👩‍💻 Hi, I’m Kushumita
+<h1 align="center"> Hi 👋🏻, I'm Kushumita </br> 
+</h1>
 
-🎓 Computer Science & Engineering student (Bhubaneswar, India)
+
+<p align="center">🎓 Computer Science & Engineering student (Bhubaneswar, India)</p>
 
 ## 💫 About Me:
 🔭 I’m currently working on a AI/ML-based project<br>🤝I’m looking to collaborate on innovative AI, machine learning, and full-stack development projects<br>🌱 I’m currently learning cloud integration, and modern full-stack frameworks<br>💬 Ask me about Python, Java, Machine Learning, React, APIs, and problem solving<br>⚡ Fun fact: I love turning real-world problems into smart tech solutions that actually help people.
