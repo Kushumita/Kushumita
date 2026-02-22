@@ -16,6 +16,12 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Kushumita&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushumita&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## Current GitHub Stats 📊
+![Stats](https://github-readme-stats.vercel.app/api?username=vishwagauravin&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwagauravin&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
+> Check Commits below, GitHub stats are sometimes inaccurate due to caching.
 
+## GitHub Streaks 🔥
+![Streaks](https://nirzak-streak-stats.vercel.app/?user=VishwaGauravIn&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
 
