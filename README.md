@@ -2,7 +2,7 @@
 </h1>
 
 
-<p align="center">🎓 Computer Science & Engineering student (Bhubaneswar, India)</p>
+<h2 align="center">🎓 Computer Science & Engineering student (Bhubaneswar, India)</h2>
 
 ## 💫 About Me:
 🔭 I’m currently working on a AI/ML-based project<br>🤝I’m looking to collaborate on innovative AI, machine learning, and full-stack development projects<br>🌱 I’m currently learning cloud integration, and modern full-stack frameworks<br>💬 Ask me about Python, Java, Machine Learning, React, APIs, and problem solving<br>⚡ Fun fact: I love turning real-world problems into smart tech solutions that actually help people.
