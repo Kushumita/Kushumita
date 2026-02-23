@@ -16,10 +16,11 @@
 
 ## 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kushumita&theme=rose&hide_border=false&include_all_commits=true&count_private=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kushumita&theme=rose&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Kushumita&theme=rose&hide_border=false" width="48%" />
+</p>
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Kushumita&theme=rose&hide_border=false" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushumita&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushumita&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="50%" />
+</p>
