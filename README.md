@@ -20,3 +20,7 @@
   ![](https://github-readme-stats.vercel.app/api?username=Kushumita&theme=rose&hide_border=false&include_all_commits=true&count_private=true)<br/>
   ![](https://nirzak-streak-stats.vercel.app/?user=Kushumita&theme=rose&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushumita&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+> Check Commits below, GitHub stats are sometimes inaccurate due to caching.
+
+## GitHub Streaks 🔥
+![Streaks](https://nirzak-streak-stats.vercel.app/?user=Kushumita&theme=rose&date_format=j%20M%5B%20Y%5D)
