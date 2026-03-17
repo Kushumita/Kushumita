@@ -20,11 +20,12 @@
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushumita&show_icons=true&hide_border=false&theme=rose&count_private=true&include_all_commits=true&layout=compact)
 > Check Commits below, GitHub stats are sometimes inaccurate due to caching.
 
+
 ## 🔥 GitHub Streaks 
 ![Streaks](https://nirzak-streak-stats.vercel.app/?user=Kushumita&theme=rose&date_format=j%20M%5B%20Y%5D)
 
-## 🚀 Featured Projects
 
+## 🚀 Featured Projects
 ### 🧠 Smart Assistive Belt
 - 🔍 AI-powered wearable system to detect user needs (hunger, restroom)
 - 🤖 Uses Machine Learning + Sensors for real-time prediction
