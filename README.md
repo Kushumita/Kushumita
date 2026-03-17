@@ -22,3 +22,23 @@
 
 ## 🔥 GitHub Streaks 
 ![Streaks](https://nirzak-streak-stats.vercel.app/?user=Kushumita&theme=rose&date_format=j%20M%5B%20Y%5D)
+
+## 🚀 Featured Projects
+
+### 🧠 Smart Assistive Belt
+- 🔍 AI-powered wearable system to detect user needs (hunger, restroom)
+- 🤖 Uses Machine Learning + Sensors for real-time prediction
+- 📊 Achieved high accuracy using optimized models
+- 🛠️ Tech Stack: Python, Scikit-learn, IoT Sensors
+
+👉 [View Project](https://github.com/Vweave1012/Smart-Assistive-Belt.git)
+
+
+
+### 🚗 Smart Parking System
+- 📍 Intelligent system to detect parking availability in real-time
+- 🧠 Uses sensors + automation to reduce traffic congestion
+- 🌐 Can be integrated with web/app interface
+- 🛠️ Tech Stack: IoT, Embedded Systems, Web Tech
+
+👉 [View Project](https://github.com/Kushumita/Smart-Parking-System.git)
