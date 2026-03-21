@@ -25,7 +25,6 @@
 ![Streaks](https://nirzak-streak-stats.vercel.app/?user=Kushumita&theme=rose&date_format=j%20M%5B%20Y%5D)
 
 
-
 ## 🚀 Featured Projects
 ### 🧠 Smart Assistive Belt
 - 🔍 AI-powered wearable system to detect user needs (hunger, restroom)
