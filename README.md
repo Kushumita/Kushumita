@@ -36,6 +36,7 @@
 👉 [View Project](https://github.com/Vweave1012/Smart-Assistive-Belt.git)
 
 
+
 ### 🚗 Smart Parking System
 - 📍 Intelligent system to detect parking availability in real-time
 - 🧠 Uses sensors + automation to reduce traffic congestion
